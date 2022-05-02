@@ -5,7 +5,7 @@
 - I'm working mostly on the Back-end.
 - Skill =  C#/ Javascript / HTML/ CSS
 
--Social Media: [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/irfn_ak47/)
+-Social Media: [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/irfn_ak47/)
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=irfanKeles&show_icons=true&theme=radical)
