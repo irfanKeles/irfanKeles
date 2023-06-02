@@ -13,7 +13,7 @@ Kullandığım Dil / Framework / Teknolojiler
 - MSSQL
 - MySQL
 
-AngularJS (Gereksinime göre Angular olabilir) Redis ve C# ile yeni bir proje geliştirmekteyim
+AngularJS (Gereksinime göre Angular olabilir) Redis, C# , Asp.NET Core MVC 6, RESTful API ve N-Tier Architecture (N-Katmanlı Mimari) ile yeni bir proje geliştirmekteyim.
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=irfanKeles&show_icons=true&theme=radical)
