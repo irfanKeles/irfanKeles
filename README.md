@@ -1,9 +1,17 @@
-- Hello I'm İrfan. 👋
-- I'm a student interested in software.
-- I like software, write code.  
-- I’m currently learning .Net Core 5 and Javascript.
-- I'm working mostly on the Back-end.
-- Skill =  C#/ Javascript / HTML/ CSS
+- Merhaba ben İrfan 26 yaşındayım. Full Stack Web Developer olarak çalışıyorum.
+Kullandığım Dil / Framework / Teknolojiler
+- HTML 
+- CSS
+- Javascript
+- AngularJs
+- C#
+- .NET Framework
+- Asp.NET MVC
+- Asp.NET Core MVC
+- Redis 
+- MongoDB
+- MSSQL
+- MySQL
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=irfanKeles&show_icons=true&theme=radical)
