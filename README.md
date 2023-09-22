@@ -1,4 +1,8 @@
-- Merhaba ben İrfan 26 yaşındayım. Full Stack Web Developer olarak çalışıyorum.
+Merhaba, C# yazılım dili ve Asp.Net çerçevesi altında, çeşitli teknolojileri kullanarak Front-End ve Back-End alanlarında web uygulamaları geliştirme konusunda deneyim sahibiyim. Web sektörünün Front-End alanında  önde gelen Javascript frameworklerin den biri olan Typescript framework'ünde de tecrübe sahibiyim. Çalışma hayatımda bir çok kişiye geliştiriciye hata düzeltmelerinde yardımcı oldum ve sıfırdan bir çok web uygulaması geliştirdim.  Genel olarak bir buçuk yılı aşkın bir süredir yazılım sektöründe olmaktan gurur duyuyorum. Her zaman gelişmeye, yeniliğe açık bir şekilde ufkumu genişletmeye, yeni zorlukların üzerinden gelmeye hevesli bir biçimde devam ediyorum.
+
+- Bir   `Console.WriteLine("Hello Word"); `   ile başladı aşkımız :)
+
+#webApplicationDeveloper
 Kullandığım Dil / Framework / Teknolojiler
 - HTML 
 - CSS
@@ -13,7 +17,7 @@ Kullandığım Dil / Framework / Teknolojiler
 - MSSQL
 - MySQL
 
-AngularJS (Gereksinime göre Angular olabilir) Redis, C# , Asp.NET Core MVC 6, RESTful API ve N-Tier Architecture (N-Katmanlı Mimari) ile yeni bir proje geliştirmekteyim.
+
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=irfanKeles&show_icons=true&theme=radical)
