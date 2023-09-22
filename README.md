@@ -8,7 +8,9 @@ Kullandığım Dil / Framework / Teknolojiler
 - HTML 
 - CSS
 - Javascript
+- Typescript
 - AngularJs
+- Angular
 - C#
 - .NET Framework
 - Asp.NET MVC
