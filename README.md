@@ -3,6 +3,7 @@ Merhaba, C# yazılım dili ve Asp.Net çerçevesi altında, çeşitli teknolojil
 - Bir   `Console.WriteLine("Hello Word"); `   ile başladı aşkımız :)
 
 #webApplicationDeveloper
+
 Kullandığım Dil / Framework / Teknolojiler
 - HTML 
 - CSS
